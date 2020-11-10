@@ -10,7 +10,7 @@ public class Main {
         int tempC=34;
 
         System.out.println("The temperature in degrees fahrenheit is " + celcToFahren(tempC));
-
+        System.out.println("hi");
     }
 
     public void menu(){
