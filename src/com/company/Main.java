@@ -11,6 +11,7 @@ public class Main {
 
         System.out.println("The temperature in degrees fahrenheit is " + celcToFahren(tempC));
         System.out.println("hi");
+        System.out.println("ii");
     }
 
     public void menu(){
